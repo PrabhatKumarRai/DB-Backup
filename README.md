@@ -1,5 +1,5 @@
 # DB-Backup
-DB Backup is an easy to setup and lightweight database backup system. The only parameters required are your Server and Database details.
+DB Backup is a easy to setup and lightweight database backup system. The only parameters required are your Server and Database details.
 
 The backup is generated in MySql format, which can directly be imported and restored. Each backup file is named on current date and time format to keep the backup files unique.
 
